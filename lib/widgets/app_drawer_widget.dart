@@ -20,7 +20,7 @@ class AppDrawarWidget extends StatelessWidget {
       children: [
         Container(
           height: 150.w,
-          child: Image.asset('assets/images/ha.jpg'),
+          child: Image.asset('assets/images/ha.jpeg'),
         ),
         Expanded(
             child: SingleChildScrollView(
